@@ -1,0 +1,115 @@
+body {
+
+    background-color: rgb(128, 177, 177);
+
+}
+
+.DesNike{
+
+
+    color: white;
+
+    font-size: 20px;
+}
+
+.DesNike1{
+
+
+    color: white;
+
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+
+
+
+.DescriptionCat1 {
+
+
+margin-left: 450px;
+
+
+}
+
+.flex-container1{
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+.DesAdidas{
+
+    color: white;
+
+    font-size: 20px;
+
+
+}
+
+.DesAdidas1 {
+
+    color: white;
+
+    font-size: 20px;
+    margin-left: 100px;
+
+}
+
+.TextAdjust1 {
+
+color: white;
+font-size: 20px;
+margin-right: 500px;
+
+}
+
+.flex-container2 {
+
+
+
+
+
+
+padding-left: 510px;
+
+
+
+}
+
+body {
+    background-color: rgb(128, 177, 177);
+}
+
+.Bienvenue {
+    font-family: "Arial";
+    font-size : 30px;
+    text-decoration: underline;
+
+
+}
+
+.Blanc {
+    width: 300x;
+    height: 300px;
+    border:2px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+
+
+.Copyrights {
+    margin-top: 48px;
+}
+
+.Clicker {
+
+    margin-left:500px;
+}
+
+.BouteilleNike{
+    margin-left: 500px;
+}
