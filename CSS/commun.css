@@ -108,3 +108,50 @@ body {
 .BouteilleNike{
     margin-left: 500px;
 }
+
+.Noir 
+{
+    width: 300x;
+    height: 300px;
+
+    margin-bottom: 50px;
+    margin-left: 600px;
+}
+
+.real {
+    margin-left: 50px;
+    font-family: "Arial";
+    font: bold;
+}
+
+.texte-noir {
+    margin-left: 900px;
+    font-family: "Arial";
+    font: bold;
+    margin-top: -50px;
+}
+
+.prod3 {
+    font-family: "Arial";
+    margin-top: 50px;
+    margin-left: 150px;
+
+}
+
+.Blanc-Prod3{
+    width: 300px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+.Black-Prod4{
+    width: 200px;
+    margin-left: 600px;
+    margin-top: 70px;
+}
+
+.prod4{
+    font-family: "Arial";
+    margin-top: 50px;
+    margin-left: 300px;
+}
