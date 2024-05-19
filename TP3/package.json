@@ -1,0 +1,25 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "TP3_AHMED_BILLY",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BdeB-Org/tp-1-partie1-tp1-billy-ahmed.git"
+  },
+  "keywords": [
+    "livres",
+    "utilisateurs",
+    "emprunts",
+    "retours"
+  ],
+  "author": "Ahmed et Billy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BdeB-Org/tp-1-partie1-tp1-billy-ahmed/issues"
+  },
+  "homepage": "https://github.com/BdeB-Org/tp-1-partie1-tp1-billy-ahmed#readme"
+}
